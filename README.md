@@ -68,5 +68,9 @@ LAB10/
 4.
 <img width="1919" height="922" alt="Screenshot 2026-03-10 030822" src="https://github.com/user-attachments/assets/00d947ee-6dca-4f57-8497-8c5cf4f11934" />
 
+<div align="center">
 
+### ⭐ Star this repository if you find it helpful!
+
+</div>
 
